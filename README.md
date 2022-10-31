@@ -1,4 +1,8 @@
-# sasmeta - Organisational level tickets
+sasmeta
+=======
+
+Organisational level data and tickets
+-------------------------------------
 
 This repository is a place for organisational data and tickets for the SasView project in general.
 
